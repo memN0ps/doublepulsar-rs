@@ -1,5 +1,7 @@
 ## DoublePulsar
 
+Blog: https://memn0ps.github.io/doublepulsar-a-user-defined-reflective-loader-in-the-crystal-palace-and-tradecraft-garden-era/
+
 Cobalt Strike User-Defined Reflective Loader (UDRL) written entirely in Rust. A ~65KB position-independent reflective loader with module stomping, synthetic call stack spoofing, sleep obfuscation (Ekko, FOLIAGE, Zilean, XOR), memory encryption, return address spoofing, IAT hooking, and heap isolation.
 
 Named after [DoublePulsar](https://en.wikipedia.org/wiki/DoublePulsar), an implant developed by the NSA's [Equation Group](https://en.wikipedia.org/wiki/Equation_Group), leaked by the Shadow Brokers in 2017.
